@@ -1,6 +1,7 @@
 /build
 /bin
 /MANIFEST
+/lib
 /checkstyle-josm-OsmInspector.xml
 /findbugs-josm-OsmInspector.xml
 /javadoc
